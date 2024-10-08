@@ -1,0 +1,64 @@
+body{
+    background-image: url(../images/engrais.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.log {
+    width: 400px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 0px #0000001a;
+    margin-top: 20vh;
+    padding-right: 50px;
+    backdrop-filter: blur(10px);
+  }
+  
+  h1 {
+    margin: 0 0 20px;
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 20px 0px #0000001a;
+    font-size: 16px;
+  }
+  
+  .btn {
+    background-color: green;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  a {
+    color: green;
+    font-size: 16px;
+    text-decoration: none;
+  }
+
+  .c1{
+     margin-left: 20%;
+  }
+
+  #remember_me{
+    display: inline;
+    width: 5%;
+  }
+  
